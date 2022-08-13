@@ -4,6 +4,6 @@ Basic Amazon web scraping script using selenium. This version runs with a firefo
 
 The script opens up the browser and amazon.ca. The script will then run a search based on the provided keyword and then downloads: product name, unique ID, Price, Rating, number of ratings, product link, image and image link into a spreadsheet. 
 
-## Please note that the search results may provide adult content.
+## Please note that the search results as is may provide adult content.
 
 
