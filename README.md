@@ -5,21 +5,21 @@
 Basic Amazon web scraping script using selenium. This version runs with a firefox browser. 
 The script opens up the browser and amazon.ca. The script will then run a search based on the provided keyword (Its set to seearch for "Best Seller")  and then downloads: 
 ----
-Product Name [x]
+Product Name :heavy_check_mark:
 ----
-Unique ID [x]
+Unique ID :heavy_check_mark:
 ----
-Price [x]
+Price :heavy_check_mark:
 ----
-Rating [x]
+Rating :heavy_check_mark:
 ----
-Number of Ratings [x]
+Number of Ratings :heavy_check_mark:
 ----
-Product Link [x]
+Product Link :heavy_check_mark:
 ----
-Image [x]
+Image :heavy_check_mark:
 ----
-Image Link [x]
+Image Link :heavy_check_mark:
 ----
 
 into a spreadsheet. 
