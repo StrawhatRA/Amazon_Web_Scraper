@@ -40,5 +40,5 @@ driver = webdriver.Chrome()
 ```
 ```python
 driver = webdriver.DriverOfChoice()
-
-## Please note that the search results as is may provide adult content. 
+```
+Please note that the search results as is may provide adult content. 
