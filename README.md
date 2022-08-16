@@ -25,7 +25,7 @@ Image Link
 into a spreadsheet. 
 
 ## Driver:
-To change it please download the following:  
+To change driver please download one of the following:  
 Chrome: https://chromedriver.chromium.org/downloads  
 Edge: https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/  
 Safari: https://developer.apple.com/documentation/webkit/testing_with_webdriver_in_safari 
